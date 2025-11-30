@@ -1,2 +1,2 @@
-# IBM-Machine-Learning-Python
-IBM machine learning and AI Notebooks + Projects
+# MI-AI-Learning
+machine learning and AI Notebooks + Projects
